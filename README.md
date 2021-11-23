@@ -1,2 +1,2 @@
-# Natural-Language-Processing-and-Unsupervised-Learning-project
+# Natural-Language-Processing-project
 NLP Project of SDAIA T5 Bootcamp
